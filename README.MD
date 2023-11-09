@@ -13,6 +13,9 @@ sudo apt install libsdl1.2-dev
 sudo apt install libsdl-ttf2.0-dev
 ```
 
-To launch the game: **cd src & make & ./main**
-
+To launch the game: 
+```
+cd src
+make & ./main
+```
 
